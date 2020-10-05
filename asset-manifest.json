@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vladapp/static/css/main.12792e92.chunk.css",
+    "main.js": "/vladapp/static/js/main.8b5c484b.chunk.js",
+    "main.js.map": "/vladapp/static/js/main.8b5c484b.chunk.js.map",
+    "runtime-main.js": "/vladapp/static/js/runtime-main.517c5d4e.js",
+    "runtime-main.js.map": "/vladapp/static/js/runtime-main.517c5d4e.js.map",
+    "static/js/2.b1e4dee8.chunk.js": "/vladapp/static/js/2.b1e4dee8.chunk.js",
+    "static/js/2.b1e4dee8.chunk.js.map": "/vladapp/static/js/2.b1e4dee8.chunk.js.map",
+    "index.html": "/vladapp/index.html",
+    "precache-manifest.fb697c7f4fcf7e4c766aa17154cc8921.js": "/vladapp/precache-manifest.fb697c7f4fcf7e4c766aa17154cc8921.js",
+    "service-worker.js": "/vladapp/service-worker.js",
+    "static/css/main.12792e92.chunk.css.map": "/vladapp/static/css/main.12792e92.chunk.css.map",
+    "static/js/2.b1e4dee8.chunk.js.LICENSE.txt": "/vladapp/static/js/2.b1e4dee8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517c5d4e.js",
+    "static/js/2.b1e4dee8.chunk.js",
+    "static/css/main.12792e92.chunk.css",
+    "static/js/main.8b5c484b.chunk.js"
+  ]
+}
