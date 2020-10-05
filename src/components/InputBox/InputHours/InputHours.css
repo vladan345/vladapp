@@ -1,0 +1,52 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+.inputControls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputControls input {
+  border-radius: 15px 0 0 15px;
+  border-right: 0;
+  width: 270px;
+  text-align: right;
+  padding-right: 20px;
+}
+.HoursButtons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.HoursButtons button {
+  text-align: center;
+  background-color: #283848;
+  color: #fff;
+  font-size: 15px;
+  border: solid 1px #fff;
+  width: 30px;
+  height: 30px;
+  transition: 0.3s;
+}
+.HoursButtons button:focus {
+  outline: none;
+}
+.HoursButtons button:first-of-type {
+  border-radius: 0 15px 0 0;
+  border-bottom: none;
+}
+.HoursButtons button:last-of-type {
+  border-radius: 0 0 15px 0;
+  border-top: none;
+}
+.HoursButtons button:hover {
+  background-color: #fff;
+  color: #283848;
+}
