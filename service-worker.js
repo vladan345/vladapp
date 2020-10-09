@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vladapp/precache-manifest.fb697c7f4fcf7e4c766aa17154cc8921.js"
+  "/vladapp/precache-manifest.d80782e76a7135109275fc11b3bb975d.js"
 );
 
 self.addEventListener('message', (event) => {
