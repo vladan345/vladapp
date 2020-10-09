@@ -1,0 +1,44 @@
+.Clock {
+  text-align: center;
+}
+
+.taskHeader {
+  padding-bottom: 30px;
+}
+.start {
+  width: 300px;
+  height: 60px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 15px;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px 0;
+  border: 1px solid #fff;
+  transition: 0.3s;
+}
+.start:hover {
+  background-color: #aaa;
+}
+h2 {
+  font-family: "Courier New";
+  font-size: 100px;
+  font-weight: 500;
+}
+.Timer {
+  text-align: left;
+  width: 480px;
+  margin: 0 auto;
+}
+.controls .controlBtn {
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #fff;
+  border-radius: 15px;
+  height: 60px;
+  width: 100px;
+  margin: 0 10px;
+  transition: 0.3s;
+}
+.controls .controlBtn:hover {
+  background-color: #aaa;
+}

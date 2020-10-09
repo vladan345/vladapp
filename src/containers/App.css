@@ -8,6 +8,11 @@
 .App {
   background-color: #283848;
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh;
 }
 h1 {
   font-family: "Courier New";
@@ -15,4 +20,10 @@ h1 {
   text-align: center;
   font-size: 40px;
   padding: 60px 0;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-align: center;
+  margin: 20px 0;
 }
